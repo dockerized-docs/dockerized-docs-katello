@@ -1,6 +1,6 @@
 # dockerized-docs-katello
 
-# What is it?#
+# What is it?
 Dockerzied katello.org site + katello documentation for offline use.
 
 # Image description #
